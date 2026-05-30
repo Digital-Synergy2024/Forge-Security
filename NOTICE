@@ -1,0 +1,22 @@
+**FORGE/DB — Database Security & Credential Console**
+*Copyright 2026 Digital-Synergy LLC*
+
+This product includes software developed by Digital-Synergy LLC.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full license text.
+
+--------------------------------------------------------------------------------
+Third-party components (installed separately via requirements.txt, not
+redistributed in source form within this repository):
+
+- CustomTkinter      MIT License        <https://github.com/TomSchimansky/CustomTkinter>
+- PyMySQL            MIT License        <https://github.com/PyMySQL/PyMySQL>
+- Pillow             MIT-CMU License    <https://github.com/python-pillow/Pillow>
+- PyInstaller        GPL w/ exception   <https://github.com/pyinstaller/pyinstaller>
+                       (build-time only; the runtime exception permits
+                        distributing the resulting executable under your own terms)
+
+The "Digital-Synergy" name, logo, and branding images in assets/img/ are
+trademarks/assets of Digital-Synergy LLC and are NOT covered by the Apache 2.0
+license grant (see Section 6 "Trademarks" of the LICENSE).

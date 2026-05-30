@@ -1,0 +1,25 @@
+# ---- Build artifacts -------------------------------------------------------
+build/
+dist/
+*.spec.bak
+
+# ---- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- FORGE/DB runtime output (may contain server info / credentials) -------
+forgedb_config.json
+reports/
+*.forgedbak
+*.bak
+
+# ---- Editor / OS -----------------------------------------------------------
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
