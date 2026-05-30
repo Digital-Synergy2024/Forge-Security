@@ -393,7 +393,7 @@ license grant.
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://digital-synergy.com">Digital-Synergy LLC</a>
+  Built with ❤️ by <a href="https://digital-synergy.org">Digital-Synergy LLC</a>
   &nbsp;·&nbsp; <a href="https://github.com/Digital-Synergy2024">GitHub</a>
-  &nbsp;·&nbsp; <a href="https://digital-synergy.com/contact">Contact</a>
+  &nbsp;·&nbsp; <a href="https://digital-synergy.org/contact">Contact</a>
 </p>
