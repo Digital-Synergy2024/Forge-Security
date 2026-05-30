@@ -389,3 +389,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 The **Digital-Synergy** name, logo, and branding images in `assets/img/` are
 trademarks/assets of Digital-Synergy LLC and are not covered by the Apache 2.0
 license grant.
+
+---
+
+<p align="center">
+  Built with ❤️ by <a href="https://digital-synergy.com">Digital-Synergy LLC</a>
+  &nbsp;·&nbsp; <a href="https://github.com/Digital-Synergy2024">GitHub</a>
+  &nbsp;·&nbsp; <a href="https://digital-synergy.com/contact">Contact</a>
+</p>
